@@ -1,0 +1,501 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,LoanTerm,Credit_History,Employment_Status,Property_Area,Dependents,Education,Married,Loan_Status
+136958,27509,548716,12,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+146932,27860,3191069,300,1,Salaried,Rural,2,Graduate,Yes,Approved
+118694,11003,3371127,120,1,Salaried,Rural,0,Graduate,No,Approved
+134879,21732,2609272,120,1,Salaried,Urban,2,Graduate,No,Approved
+125268,25826,2326106,84,1,Self-employed,Semiurban,0,Not Graduate,Yes,Approved
+69886,30354,2052324,180,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+102498,13843,4377021,60,1,Self-employed,Rural,0,Graduate,Yes,Approved
+127727,44472,3374323,360,1,Salaried,Urban,0,Graduate,Yes,Approved
+141324,48529,4001416,120,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+31023,6190,544592,60,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+56090,17640,3295886,12,1,Unemployed,Urban,0,Graduate,Yes,Rejected
+82221,38413,3904261,180,1,Self-employed,Urban,2,Not Graduate,Yes,Approved
+79820,42356,3628226,36,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+15769,44597,2079454,60,0,Self-employed,Semiurban,1,Graduate,Yes,Rejected
+74735,40821,2477540,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+79925,3330,1765630,360,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+20311,19087,368408,300,1,Salaried,Urban,0,Graduate,No,Approved
+118355,41430,518276,36,1,Salaried,Semiurban,0,Not Graduate,Yes,Approved
+100305,24504,2204697,300,1,Self-employed,Urban,0,Graduate,Yes,Approved
+145608,7114,561411,360,1,Salaried,Rural,0,Graduate,No,Approved
+99478,13323,2972808,12,1,Self-employed,Urban,0,Graduate,No,Approved
+137537,34121,3167172,120,0,Salaried,Urban,1,Graduate,Yes,Rejected
+145523,10975,934377,300,1,Self-employed,Urban,2,Graduate,No,Approved
+17747,11023,4285042,36,0,Self-employed,Urban,2,Not Graduate,Yes,Rejected
+138855,21447,1948739,84,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+80725,24933,1279336,240,1,Salaried,Urban,0,Not Graduate,Yes,Approved
+144981,23959,1067433,60,1,Salaried,Rural,0,Graduate,No,Approved
+99654,667,4711029,120,1,Salaried,Urban,0,Not Graduate,No,Approved
+134346,29703,2811089,300,1,Salaried,Urban,0,Graduate,Yes,Approved
+82435,9337,3728086,60,0,Self-employed,Urban,1,Graduate,Yes,Rejected
+71886,46427,1631530,84,1,Unemployed,Urban,1,Graduate,Yes,Rejected
+81803,36487,2137258,360,1,Self-employed,Urban,0,Not Graduate,Yes,Approved
+46551,19129,4542816,240,1,Self-employed,Semiurban,0,Graduate,Yes,Rejected
+131216,40251,4906447,12,1,Self-employed,Semiurban,2,Graduate,No,Approved
+26394,31921,2799178,84,1,Self-employed,Semiurban,1,Graduate,No,Approved
+84092,33307,1046530,84,0,Salaried,Semiurban,0,Not Graduate,No,Rejected
+18890,27355,821253,360,1,Unemployed,Semiurban,2,Graduate,No,Rejected
+56606,37732,2651623,180,1,Self-employed,Urban,3,Not Graduate,Yes,Approved
+102313,4835,1428246,360,0,Salaried,Semiurban,0,Graduate,No,Rejected
+23792,20159,4158997,180,1,Salaried,Rural,0,Graduate,Yes,Rejected
+83148,38810,2953540,180,0,Salaried,Semiurban,1,Graduate,Yes,Rejected
+139243,47605,3414695,120,0,Salaried,Semiurban,2,Not Graduate,Yes,Rejected
+135174,40080,4028400,120,0,Self-employed,Urban,2,Graduate,Yes,Rejected
+139358,38088,4627456,36,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+63555,13216,2241422,300,1,Salaried,Rural,0,Graduate,Yes,Approved
+32159,35547,1095482,300,1,Unemployed,Semiurban,1,Graduate,No,Rejected
+125510,31471,1345302,12,1,Salaried,Rural,1,Graduate,Yes,Approved
+121530,17308,4052640,300,1,Salaried,Urban,0,Graduate,Yes,Approved
+95077,27532,620451,120,1,Salaried,Urban,2,Not Graduate,No,Approved
+50920,34349,69816,36,1,Self-employed,Rural,1,Not Graduate,Yes,Approved
+34457,45445,1017344,36,0,Unemployed,Rural,2,Not Graduate,Yes,Rejected
+93953,5713,2905059,180,1,Salaried,Urban,2,Not Graduate,Yes,Approved
+67995,49407,2462149,360,1,Self-employed,Urban,1,Graduate,Yes,Approved
+24692,4804,3402252,12,1,Salaried,Urban,0,Graduate,Yes,Rejected
+52065,10136,3782839,180,1,Unemployed,Urban,1,Not Graduate,Yes,Rejected
+114299,9,1088896,360,0,Self-employed,Rural,0,Graduate,Yes,Rejected
+26534,19255,3347606,300,0,Self-employed,Semiurban,1,Not Graduate,Yes,Rejected
+55397,23793,2928604,180,1,Salaried,Urban,0,Not Graduate,Yes,Approved
+106387,29548,3630893,60,1,Unemployed,Urban,1,Graduate,Yes,Rejected
+16016,37892,4377858,300,0,Self-employed,Urban,0,Not Graduate,Yes,Rejected
+70591,1015,4006602,360,1,Salaried,Urban,0,Graduate,No,Rejected
+38247,27712,4146951,12,0,Self-employed,Semiurban,0,Graduate,Yes,Rejected
+39300,34961,314223,360,1,Salaried,Rural,0,Graduate,Yes,Approved
+97798,8415,3369260,180,1,Self-employed,Rural,1,Graduate,No,Approved
+24268,46318,2744287,180,1,Salaried,Urban,1,Graduate,Yes,Approved
+101807,47280,1716471,84,0,Self-employed,Rural,1,Graduate,Yes,Rejected
+27185,23833,4671056,12,0,Salaried,Rural,0,Not Graduate,Yes,Rejected
+53044,4158,638365,300,1,Salaried,Rural,0,Not Graduate,No,Approved
+66214,20309,753662,36,0,Salaried,Semiurban,0,Graduate,No,Rejected
+129752,6970,1355585,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+63984,6938,4142097,36,0,Salaried,Urban,2,Not Graduate,No,Rejected
+55774,21168,2709440,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+17568,46540,1649601,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+135151,20384,3993645,360,1,Salaried,Urban,0,Graduate,Yes,Approved
+148767,18017,4545013,12,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+139375,10344,4101774,84,1,Self-employed,Semiurban,1,Graduate,No,Approved
+54504,40034,1284816,180,1,Salaried,Semiurban,1,Not Graduate,Yes,Approved
+28986,8702,1675351,240,1,Unemployed,Urban,0,Graduate,Yes,Rejected
+76858,384,2014956,36,1,Self-employed,Rural,0,Graduate,No,Approved
+144312,404,3498678,180,0,Self-employed,Rural,0,Graduate,Yes,Rejected
+27666,40943,1177199,240,1,Salaried,Rural,0,Graduate,Yes,Approved
+53660,47926,3561049,36,1,Self-employed,Rural,0,Graduate,Yes,Approved
+149633,29189,4113186,36,0,Salaried,Semiurban,3,Not Graduate,No,Rejected
+41854,12763,2330827,240,1,Salaried,Rural,1,Not Graduate,No,Approved
+79505,18384,1835910,12,1,Salaried,Urban,1,Graduate,Yes,Approved
+119488,32606,4896769,300,1,Self-employed,Urban,0,Not Graduate,No,Approved
+37662,9860,3145900,60,1,Salaried,Urban,0,Not Graduate,Yes,Rejected
+23392,38757,4093064,180,1,Salaried,Urban,1,Not Graduate,No,Rejected
+45535,15106,2652967,360,0,Unemployed,Urban,1,Graduate,Yes,Rejected
+128569,23574,3488550,180,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+67256,23524,126218,360,1,Salaried,Rural,0,Graduate,No,Approved
+104135,3636,820044,240,0,Salaried,Semiurban,1,Graduate,Yes,Rejected
+142478,10916,2596741,360,1,Self-employed,Urban,0,Graduate,Yes,Approved
+50222,4809,4722750,36,1,Salaried,Rural,2,Graduate,Yes,Rejected
+92373,32201,4706356,300,0,Salaried,Semiurban,1,Not Graduate,No,Rejected
+138684,13456,3530130,300,1,Salaried,Urban,1,Not Graduate,Yes,Approved
+25965,48212,3235714,36,1,Unemployed,Semiurban,0,Not Graduate,Yes,Rejected
+39538,38765,1778096,84,0,Self-employed,Urban,1,Graduate,Yes,Rejected
+123066,34816,397739,240,1,Self-employed,Urban,0,Graduate,Yes,Approved
+128252,45106,522327,84,1,Self-employed,Rural,0,Graduate,Yes,Approved
+113806,17100,2744946,84,1,Salaried,Urban,0,Graduate,No,Approved
+125989,21949,4279215,180,1,Salaried,Semiurban,1,Graduate,No,Approved
+105982,4544,1972135,180,1,Salaried,Rural,0,Graduate,Yes,Approved
+136626,37744,1028039,60,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+134176,45543,949885,360,1,Salaried,Urban,2,Not Graduate,Yes,Approved
+146278,42783,658746,36,1,Self-employed,Urban,0,Graduate,Yes,Approved
+137409,26657,3052819,180,1,Self-employed,Urban,1,Not Graduate,No,Approved
+38419,36187,4561219,240,0,Self-employed,Semiurban,0,Graduate,Yes,Rejected
+65015,47198,549876,360,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+137096,7239,2012165,60,0,Self-employed,Urban,1,Graduate,No,Rejected
+122059,14489,661213,60,1,Self-employed,Rural,0,Graduate,Yes,Approved
+125687,49401,818734,240,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+102939,43125,4291361,84,1,Self-employed,Urban,1,Graduate,Yes,Approved
+120878,49922,1889433,300,1,Salaried,Semiurban,1,Graduate,No,Approved
+77623,28538,3722214,240,1,Salaried,Semiurban,1,Graduate,No,Approved
+90450,32049,2076580,120,1,Salaried,Urban,0,Graduate,Yes,Approved
+108426,37131,4953058,240,1,Salaried,Urban,0,Not Graduate,No,Approved
+132845,42944,4389235,60,1,Salaried,Rural,1,Graduate,Yes,Approved
+58585,8427,1542252,36,1,Self-employed,Semiurban,1,Not Graduate,Yes,Approved
+124225,41348,3576737,180,1,Unemployed,Semiurban,2,Graduate,Yes,Rejected
+79044,24285,451921,36,1,Self-employed,Semiurban,2,Not Graduate,Yes,Approved
+124556,37626,2058960,60,1,Self-employed,Urban,2,Not Graduate,Yes,Approved
+17693,42808,4505214,180,1,Salaried,Urban,0,Graduate,Yes,Rejected
+110259,22928,137955,120,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+40939,19198,3866446,300,1,Salaried,Urban,1,Not Graduate,Yes,Rejected
+33047,19758,3426513,360,0,Salaried,Urban,0,Graduate,Yes,Rejected
+41105,15254,1987878,60,1,Salaried,Rural,0,Graduate,No,Approved
+90766,44238,4452294,60,1,Salaried,Rural,2,Graduate,Yes,Approved
+59262,1252,2135259,60,1,Salaried,Rural,2,Not Graduate,Yes,Approved
+140117,39764,2525539,180,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+38776,12173,4783188,12,1,Salaried,Urban,0,Graduate,Yes,Rejected
+143376,37441,1755215,240,1,Unemployed,Rural,0,Graduate,No,Rejected
+107787,26698,2539569,12,1,Salaried,Urban,2,Graduate,Yes,Approved
+142948,15781,3316402,120,0,Salaried,Rural,2,Graduate,Yes,Rejected
+70016,13051,2033851,300,1,Salaried,Rural,0,Not Graduate,No,Approved
+36959,39649,4158880,84,0,Self-employed,Semiurban,0,Graduate,Yes,Rejected
+134101,6949,4787655,120,1,Salaried,Rural,2,Graduate,Yes,Approved
+18748,42289,4311946,84,1,Salaried,Semiurban,0,Graduate,Yes,Rejected
+28545,8017,140093,84,1,Salaried,Urban,1,Not Graduate,No,Approved
+142659,6941,1606182,300,0,Salaried,Semiurban,3,Graduate,Yes,Rejected
+88530,25934,4461519,36,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+108557,23386,2053679,12,1,Salaried,Urban,1,Graduate,Yes,Approved
+76087,10209,1782465,60,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+83840,17715,4280258,360,0,Salaried,Rural,0,Graduate,Yes,Rejected
+133451,28920,3223584,84,0,Salaried,Urban,2,Graduate,Yes,Rejected
+66005,31703,4771165,120,1,Self-employed,Rural,0,Graduate,Yes,Approved
+54353,42318,2706807,36,1,Salaried,Rural,3,Not Graduate,No,Approved
+67733,4637,2909244,84,1,Salaried,Rural,1,Not Graduate,No,Approved
+80318,4854,936040,36,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+82172,43088,372918,36,1,Unemployed,Semiurban,0,Graduate,No,Rejected
+108264,37660,2988613,84,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+41736,39811,2295909,180,1,Salaried,Rural,0,Graduate,Yes,Approved
+127859,49289,4112442,240,0,Self-employed,Urban,0,Graduate,Yes,Rejected
+127181,19856,166739,60,0,Salaried,Semiurban,0,Graduate,No,Rejected
+146926,21833,1336585,60,0,Salaried,Semiurban,0,Graduate,No,Rejected
+105084,19963,830316,180,1,Salaried,Urban,1,Graduate,Yes,Approved
+22392,36932,3584550,60,1,Self-employed,Semiurban,1,Graduate,No,Rejected
+70680,27169,3539866,36,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+65859,7941,1416853,300,0,Self-employed,Urban,0,Graduate,No,Rejected
+140657,14388,1064929,120,0,Unemployed,Semiurban,0,Graduate,No,Rejected
+85467,5569,1616847,12,1,Salaried,Rural,1,Graduate,Yes,Approved
+113506,4300,2470564,60,1,Salaried,Semiurban,0,Graduate,No,Approved
+124751,39037,2632569,300,1,Salaried,Urban,0,Not Graduate,Yes,Approved
+133906,36586,1530035,84,1,Salaried,Urban,2,Not Graduate,Yes,Approved
+40342,12015,238456,240,1,Salaried,Urban,1,Graduate,Yes,Approved
+121308,45002,2703093,36,1,Unemployed,Rural,1,Graduate,Yes,Rejected
+121081,6254,3353457,240,0,Self-employed,Urban,0,Graduate,No,Rejected
+104045,17144,4135412,120,1,Self-employed,Semiurban,1,Not Graduate,No,Approved
+49698,24214,4472808,120,1,Salaried,Urban,1,Graduate,Yes,Rejected
+125078,40118,4817348,180,1,Self-employed,Urban,1,Graduate,No,Approved
+95623,15183,766756,360,1,Unemployed,Rural,1,Graduate,No,Rejected
+37671,6238,101226,180,0,Self-employed,Semiurban,2,Graduate,Yes,Rejected
+108384,6090,3801198,300,1,Salaried,Urban,1,Graduate,No,Approved
+101202,11637,3671509,240,1,Self-employed,Semiurban,0,Not Graduate,Yes,Approved
+66663,22415,3188145,360,1,Salaried,Urban,1,Graduate,No,Approved
+30708,24071,3947611,84,1,Salaried,Semiurban,1,Graduate,Yes,Rejected
+106906,45415,1276476,36,1,Salaried,Semiurban,1,Not Graduate,Yes,Approved
+64811,42679,4234056,240,1,Self-employed,Urban,0,Not Graduate,Yes,Approved
+148883,41240,622212,180,1,Self-employed,Urban,0,Graduate,Yes,Approved
+71250,18271,4468441,12,1,Salaried,Urban,2,Graduate,Yes,Approved
+127547,36034,1550844,360,1,Salaried,Rural,1,Graduate,Yes,Approved
+139249,33434,979168,360,0,Salaried,Rural,2,Not Graduate,Yes,Rejected
+49754,4188,3493609,36,1,Salaried,Urban,1,Graduate,No,Rejected
+148983,49823,413476,60,1,Salaried,Rural,1,Not Graduate,Yes,Approved
+99896,10161,1450283,120,1,Salaried,Urban,1,Graduate,Yes,Approved
+86295,28732,741757,120,1,Self-employed,Urban,2,Graduate,Yes,Approved
+115689,11314,440719,12,1,Salaried,Rural,1,Graduate,Yes,Approved
+26111,23954,1577937,300,1,Salaried,Rural,1,Graduate,No,Approved
+52504,21508,1199947,300,1,Salaried,Rural,0,Graduate,No,Approved
+147874,21969,3387920,84,1,Unemployed,Semiurban,0,Graduate,Yes,Rejected
+23155,45659,3346050,240,1,Self-employed,Urban,1,Graduate,Yes,Approved
+54384,37545,2168324,60,0,Self-employed,Rural,0,Not Graduate,No,Rejected
+127561,36668,2728932,180,0,Salaried,Urban,0,Graduate,Yes,Rejected
+62254,23061,4952666,360,1,Salaried,Semiurban,0,Not Graduate,No,Rejected
+36918,13716,926031,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+100981,39749,1320896,120,1,Self-employed,Semiurban,0,Graduate,No,Approved
+45306,39144,3613706,84,1,Unemployed,Urban,0,Graduate,Yes,Rejected
+61843,16907,1109622,300,1,Self-employed,Urban,2,Graduate,Yes,Approved
+135975,18777,4472375,12,1,Self-employed,Rural,1,Not Graduate,No,Approved
+111601,27693,428165,360,1,Self-employed,Urban,0,Graduate,Yes,Approved
+122512,42928,758662,180,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+126472,26329,4181479,84,1,Unemployed,Urban,1,Graduate,Yes,Rejected
+148121,46892,1062117,360,1,Salaried,Urban,0,Graduate,Yes,Approved
+118727,16282,695188,120,1,Salaried,Urban,2,Graduate,Yes,Approved
+127893,23624,465008,120,1,Salaried,Urban,1,Not Graduate,Yes,Approved
+35932,23321,1681993,120,1,Salaried,Rural,1,Not Graduate,Yes,Approved
+132796,10488,3401278,12,1,Salaried,Urban,0,Graduate,Yes,Approved
+44855,22574,2392035,12,0,Salaried,Rural,1,Graduate,No,Rejected
+22400,5240,2818362,300,1,Salaried,Semiurban,0,Graduate,Yes,Rejected
+132858,43221,3076768,300,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+30151,10478,1220365,180,1,Salaried,Semiurban,1,Graduate,No,Approved
+81690,45162,729418,84,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+19499,19262,4945084,36,0,Salaried,Rural,0,Graduate,Yes,Rejected
+21295,4432,1661754,36,0,Salaried,Urban,0,Graduate,Yes,Rejected
+135885,29721,1164593,360,1,Self-employed,Urban,1,Graduate,Yes,Approved
+141071,13568,1276952,120,1,Self-employed,Rural,0,Graduate,Yes,Approved
+74040,14178,4901188,84,1,Self-employed,Rural,1,Graduate,Yes,Rejected
+27183,22195,2771864,12,1,Self-employed,Rural,0,Graduate,Yes,Rejected
+131336,302,3997208,240,1,Salaried,Semiurban,1,Not Graduate,Yes,Approved
+47711,17022,2988496,60,1,Self-employed,Rural,2,Graduate,Yes,Approved
+20539,55,3925754,180,1,Salaried,Semiurban,1,Graduate,Yes,Rejected
+141063,45781,2754999,120,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+148629,8717,3044200,120,1,Self-employed,Urban,0,Not Graduate,No,Approved
+53360,28699,1374070,120,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+148272,8150,3240914,12,1,Self-employed,Urban,1,Graduate,Yes,Approved
+36357,2125,2574388,12,1,Self-employed,Urban,0,Graduate,Yes,Rejected
+134121,44247,1708987,60,1,Self-employed,Rural,0,Not Graduate,Yes,Approved
+92505,48513,3926274,84,1,Unemployed,Urban,0,Not Graduate,Yes,Rejected
+17869,16748,2887981,120,1,Salaried,Urban,0,Graduate,Yes,Rejected
+65108,39577,1711793,36,0,Salaried,Urban,0,Not Graduate,No,Rejected
+127296,4621,666036,300,1,Salaried,Rural,2,Not Graduate,Yes,Approved
+109179,15034,3441418,36,0,Salaried,Semiurban,0,Not Graduate,No,Rejected
+105272,46391,478988,360,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+53467,5126,4134752,36,1,Self-employed,Rural,0,Graduate,Yes,Rejected
+38328,5122,4424857,360,1,Self-employed,Rural,1,Graduate,Yes,Rejected
+106412,18030,4805000,240,0,Salaried,Urban,0,Not Graduate,Yes,Rejected
+73871,17302,3027590,300,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+143391,19181,3347291,36,1,Salaried,Rural,2,Graduate,Yes,Approved
+101416,38638,3852429,240,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+85271,1531,4944287,180,1,Self-employed,Urban,2,Not Graduate,No,Rejected
+59064,40940,2540706,84,1,Salaried,Rural,3,Not Graduate,No,Approved
+122450,40441,1241902,240,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+34830,23333,2542118,84,0,Salaried,Urban,2,Not Graduate,Yes,Rejected
+131381,39650,3787973,36,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+62333,34674,2252575,240,1,Self-employed,Urban,1,Not Graduate,Yes,Approved
+149508,35854,514071,300,1,Salaried,Urban,0,Graduate,Yes,Approved
+91213,46271,4431137,36,0,Salaried,Rural,0,Graduate,Yes,Rejected
+45746,8152,4962216,120,1,Salaried,Urban,3,Not Graduate,Yes,Rejected
+64377,38518,825435,12,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+69045,45540,2224606,240,1,Self-employed,Semiurban,1,Not Graduate,No,Approved
+112888,10267,3548472,300,1,Self-employed,Urban,2,Graduate,No,Approved
+122455,25289,3056316,180,1,Salaried,Rural,2,Graduate,No,Approved
+108179,1062,1614718,120,1,Salaried,Urban,3,Graduate,Yes,Approved
+60714,29926,2184793,180,1,Unemployed,Urban,0,Graduate,Yes,Rejected
+117946,6229,1652575,36,0,Salaried,Urban,0,Graduate,Yes,Rejected
+124616,49277,3863270,12,1,Self-employed,Urban,0,Graduate,Yes,Approved
+120983,47915,4856425,240,1,Salaried,Urban,0,Graduate,Yes,Approved
+139123,4632,2428837,240,1,Salaried,Semiurban,0,Graduate,No,Approved
+58484,39056,1574102,36,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+97989,3596,3240541,36,1,Salaried,Urban,1,Not Graduate,Yes,Approved
+51212,44243,714180,12,1,Unemployed,Semiurban,1,Graduate,Yes,Rejected
+58525,6168,2433366,300,1,Salaried,Semiurban,0,Not Graduate,Yes,Approved
+78208,42563,2085848,300,1,Salaried,Rural,1,Graduate,Yes,Approved
+48828,7561,2489855,12,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+18420,8258,254615,300,1,Salaried,Urban,0,Not Graduate,Yes,Approved
+111752,16616,1575233,360,1,Salaried,Urban,1,Not Graduate,Yes,Approved
+146373,26734,3946022,84,0,Salaried,Semiurban,1,Graduate,No,Rejected
+130294,6371,1853740,12,1,Self-employed,Rural,1,Not Graduate,Yes,Approved
+139019,26069,4018222,12,1,Salaried,Urban,0,Graduate,No,Approved
+80726,14369,3118893,60,1,Salaried,Urban,2,Not Graduate,Yes,Approved
+130668,12910,888003,120,0,Unemployed,Rural,1,Graduate,Yes,Rejected
+21102,7943,3483382,120,1,Salaried,Rural,1,Graduate,Yes,Rejected
+133015,12199,331570,360,1,Unemployed,Rural,1,Graduate,Yes,Rejected
+41641,15728,3232993,36,1,Salaried,Rural,2,Graduate,Yes,Rejected
+118746,23275,4131082,36,0,Self-employed,Urban,1,Graduate,No,Rejected
+51631,6738,3445049,180,1,Self-employed,Semiurban,1,Not Graduate,No,Rejected
+87991,15913,116150,360,1,Self-employed,Semiurban,3,Graduate,Yes,Approved
+19014,35240,2484206,12,1,Unemployed,Urban,1,Graduate,Yes,Rejected
+26093,19123,609723,360,1,Salaried,Semiurban,0,Graduate,No,Approved
+33070,48447,2597500,360,1,Unemployed,Semiurban,1,Graduate,Yes,Rejected
+50777,34529,3405745,360,1,Salaried,Urban,0,Graduate,Yes,Approved
+71958,10167,1049554,120,1,Salaried,Rural,0,Graduate,Yes,Approved
+97074,10554,4243060,360,1,Salaried,Semiurban,1,Graduate,No,Approved
+25729,17260,4208634,84,1,Salaried,Rural,2,Graduate,No,Rejected
+120864,47045,184055,36,0,Salaried,Urban,2,Graduate,Yes,Rejected
+145858,3812,726022,180,0,Salaried,Urban,0,Not Graduate,No,Rejected
+120510,28024,859942,84,1,Salaried,Semiurban,1,Not Graduate,No,Approved
+69748,27285,3929275,180,1,Self-employed,Urban,0,Graduate,Yes,Approved
+20801,26900,746358,60,1,Self-employed,Semiurban,3,Graduate,Yes,Approved
+44592,1605,3645790,180,1,Salaried,Rural,3,Graduate,Yes,Rejected
+25647,5622,1891648,36,1,Salaried,Urban,1,Graduate,No,Rejected
+125627,6767,1738472,36,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+85316,27139,3878433,360,0,Salaried,Semiurban,1,Graduate,No,Rejected
+17368,11613,2785264,240,1,Salaried,Urban,1,Graduate,Yes,Rejected
+92575,10589,4498748,60,1,Salaried,Rural,0,Graduate,No,Approved
+21655,13918,2750713,12,0,Salaried,Rural,0,Graduate,Yes,Rejected
+85031,20119,2358989,300,1,Unemployed,Semiurban,1,Not Graduate,Yes,Rejected
+102922,27446,4187270,180,1,Salaried,Semiurban,1,Not Graduate,No,Approved
+139046,13046,4367922,240,1,Salaried,Semiurban,0,Graduate,No,Approved
+47097,24818,4165625,360,1,Salaried,Rural,2,Graduate,No,Rejected
+139862,35358,509297,120,1,Salaried,Semiurban,0,Not Graduate,Yes,Approved
+133834,4324,1070154,12,1,Salaried,Semiurban,1,Not Graduate,No,Approved
+108848,10787,4995169,240,1,Self-employed,Rural,1,Graduate,Yes,Approved
+67921,9111,4127151,120,1,Salaried,Urban,1,Graduate,Yes,Rejected
+141141,38110,4784963,60,1,Salaried,Rural,1,Graduate,Yes,Approved
+37677,16389,2853696,360,0,Unemployed,Urban,0,Graduate,Yes,Rejected
+70609,41427,2143373,12,1,Self-employed,Urban,0,Graduate,Yes,Approved
+46024,14043,2422280,12,1,Self-employed,Urban,1,Graduate,No,Approved
+85313,28746,2966623,12,1,Salaried,Rural,1,Graduate,Yes,Approved
+142813,22350,2756871,60,1,Self-employed,Rural,0,Graduate,No,Approved
+110285,41605,920123,180,1,Salaried,Semiurban,1,Not Graduate,Yes,Approved
+128632,117,3036249,60,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+18051,46685,1909582,300,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+129692,18935,4494499,36,1,Salaried,Rural,2,Graduate,No,Approved
+102235,47077,2179885,360,0,Salaried,Semiurban,0,Graduate,No,Rejected
+88523,13234,4770642,60,0,Salaried,Urban,0,Not Graduate,No,Rejected
+109476,38328,2257148,120,1,Unemployed,Urban,1,Graduate,No,Rejected
+32019,846,4802525,300,1,Unemployed,Rural,1,Graduate,Yes,Rejected
+98613,10954,599239,36,1,Self-employed,Semiurban,1,Not Graduate,Yes,Approved
+101672,13703,606701,180,1,Salaried,Urban,2,Graduate,No,Approved
+88847,48153,3097569,120,1,Self-employed,Urban,2,Not Graduate,Yes,Approved
+97750,46514,4678120,360,1,Salaried,Rural,3,Graduate,Yes,Approved
+43251,22700,1320464,120,1,Self-employed,Urban,1,Graduate,Yes,Approved
+118481,32043,835332,36,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+127566,6469,817950,120,1,Self-employed,Rural,0,Graduate,Yes,Approved
+40945,30105,216472,84,0,Salaried,Semiurban,0,Not Graduate,Yes,Rejected
+105852,42101,447710,240,1,Self-employed,Urban,1,Not Graduate,Yes,Approved
+47217,26386,4367048,180,1,Unemployed,Semiurban,0,Graduate,Yes,Rejected
+23308,49376,3238729,36,1,Salaried,Rural,2,Graduate,Yes,Approved
+20949,45587,4835956,120,0,Salaried,Semiurban,1,Not Graduate,Yes,Rejected
+147222,36976,2900171,240,0,Unemployed,Rural,1,Not Graduate,No,Rejected
+115235,39051,960775,240,1,Salaried,Urban,0,Graduate,Yes,Approved
+89740,2048,2646874,120,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+131352,39001,608924,360,1,Salaried,Semiurban,0,Graduate,No,Approved
+81617,12941,3931185,84,1,Salaried,Rural,0,Not Graduate,Yes,Approved
+31896,45375,4423656,60,1,Salaried,Urban,0,Graduate,Yes,Rejected
+145798,42533,4062595,84,0,Salaried,Rural,1,Graduate,No,Rejected
+20237,1828,2340435,120,1,Self-employed,Semiurban,2,Not Graduate,Yes,Rejected
+35056,1917,481413,180,0,Salaried,Urban,2,Graduate,No,Rejected
+129548,20618,1402564,60,1,Salaried,Urban,1,Graduate,No,Approved
+126488,32254,2474050,36,1,Salaried,Rural,0,Graduate,Yes,Approved
+149415,39756,4215100,84,1,Salaried,Urban,2,Graduate,Yes,Approved
+44375,47362,913561,120,0,Self-employed,Urban,2,Graduate,Yes,Rejected
+31964,20128,352186,84,0,Unemployed,Urban,0,Graduate,Yes,Rejected
+128429,45745,3257393,60,1,Salaried,Rural,1,Graduate,Yes,Approved
+82215,9,3878464,300,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+84042,16644,1076553,84,1,Self-employed,Rural,2,Not Graduate,Yes,Approved
+108468,22422,1285202,36,1,Salaried,Urban,3,Not Graduate,Yes,Approved
+24435,9865,195271,36,1,Unemployed,Semiurban,0,Graduate,Yes,Rejected
+93832,2219,2265685,12,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+66293,39809,3793797,84,1,Salaried,Rural,1,Graduate,Yes,Approved
+93781,5287,1564542,360,1,Self-employed,Rural,3,Graduate,No,Approved
+58919,34387,4230656,240,1,Salaried,Urban,0,Graduate,Yes,Approved
+136172,8512,2980184,240,0,Self-employed,Semiurban,2,Graduate,Yes,Rejected
+109758,1342,126898,240,1,Self-employed,Urban,0,Graduate,No,Approved
+71573,43336,3345097,300,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+74101,19216,338316,12,0,Self-employed,Urban,0,Graduate,Yes,Rejected
+41646,27534,2058954,300,1,Salaried,Urban,3,Graduate,Yes,Approved
+119185,14231,1879553,84,0,Salaried,Urban,2,Graduate,Yes,Rejected
+38049,32293,4138657,84,1,Self-employed,Semiurban,2,Graduate,Yes,Rejected
+113116,26614,3091341,84,1,Unemployed,Urban,2,Graduate,Yes,Rejected
+112379,36258,1089504,180,1,Salaried,Semiurban,0,Not Graduate,Yes,Approved
+83385,28253,4137810,240,1,Salaried,Semiurban,0,Not Graduate,No,Approved
+141131,42078,2155058,180,0,Self-employed,Urban,0,Graduate,Yes,Rejected
+38289,40752,4959384,12,1,Self-employed,Rural,0,Graduate,Yes,Rejected
+125226,17988,1725843,300,1,Self-employed,Urban,0,Graduate,No,Approved
+115793,31037,84701,240,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+24823,12219,3279028,180,1,Salaried,Semiurban,0,Graduate,No,Rejected
+56975,235,1771610,180,0,Salaried,Urban,0,Not Graduate,Yes,Rejected
+24540,42929,2230712,120,1,Self-employed,Urban,0,Graduate,No,Approved
+31364,1908,2389767,180,1,Salaried,Urban,0,Not Graduate,Yes,Rejected
+42663,8567,2664235,360,1,Salaried,Rural,3,Graduate,No,Rejected
+66991,36298,541036,360,1,Unemployed,Semiurban,1,Graduate,No,Rejected
+119182,5256,377304,300,1,Salaried,Semiurban,3,Not Graduate,Yes,Approved
+109704,19019,2512616,360,1,Unemployed,Semiurban,0,Graduate,Yes,Rejected
+64115,8162,2760241,300,0,Self-employed,Urban,0,Graduate,Yes,Rejected
+106007,5415,3483803,300,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+26938,36159,1192953,12,1,Salaried,Rural,0,Graduate,Yes,Approved
+106680,43925,4011352,120,1,Salaried,Urban,0,Not Graduate,Yes,Approved
+19000,5951,4028702,84,1,Self-employed,Urban,0,Graduate,Yes,Rejected
+116042,21852,4109175,36,1,Self-employed,Urban,0,Not Graduate,Yes,Approved
+108610,8007,376916,300,0,Self-employed,Semiurban,0,Not Graduate,Yes,Rejected
+118691,41832,3647706,60,0,Salaried,Rural,0,Not Graduate,Yes,Rejected
+53304,30523,4556554,84,1,Self-employed,Urban,1,Graduate,Yes,Rejected
+84449,23325,655409,240,1,Self-employed,Semiurban,0,Graduate,Yes,Approved
+97986,21204,1124135,360,1,Self-employed,Urban,0,Not Graduate,Yes,Approved
+123940,15524,3039179,36,1,Self-employed,Rural,2,Graduate,Yes,Approved
+53494,19282,1775690,60,1,Self-employed,Urban,0,Graduate,Yes,Approved
+18373,23930,3330772,84,0,Self-employed,Semiurban,0,Graduate,Yes,Rejected
+112532,77,4207893,12,1,Salaried,Semiurban,2,Graduate,Yes,Approved
+107658,40345,453119,240,1,Salaried,Semiurban,0,Graduate,No,Approved
+138633,20611,4216769,36,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+115386,16984,4370295,120,1,Salaried,Urban,0,Graduate,Yes,Approved
+42350,14060,452732,12,1,Salaried,Urban,0,Not Graduate,No,Approved
+108008,17449,556079,60,0,Salaried,Urban,1,Graduate,No,Rejected
+109297,18520,2000013,36,1,Salaried,Urban,2,Not Graduate,No,Approved
+40351,43303,2673836,12,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+103668,9510,1182658,240,0,Self-employed,Urban,1,Not Graduate,Yes,Rejected
+129585,29287,2035209,120,1,Unemployed,Urban,1,Graduate,No,Rejected
+90353,28173,4372626,12,1,Salaried,Semiurban,0,Not Graduate,Yes,Approved
+80953,39711,706951,180,1,Unemployed,Rural,1,Graduate,Yes,Rejected
+72458,11954,61303,120,1,Salaried,Semiurban,0,Not Graduate,No,Approved
+35358,7804,1260209,60,1,Salaried,Urban,0,Graduate,No,Approved
+18267,6565,3529591,240,1,Salaried,Urban,0,Not Graduate,No,Rejected
+97745,5984,2416610,360,1,Salaried,Rural,0,Not Graduate,No,Approved
+104588,21526,4230303,360,0,Self-employed,Urban,0,Graduate,No,Rejected
+53513,37438,1118199,360,1,Self-employed,Urban,2,Graduate,Yes,Approved
+26338,18574,4967339,36,1,Salaried,Semiurban,0,Not Graduate,No,Rejected
+146484,9184,4226224,60,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+22543,19096,4734346,240,0,Salaried,Semiurban,0,Not Graduate,Yes,Rejected
+120891,2192,508298,120,1,Salaried,Urban,1,Graduate,No,Approved
+75692,34016,1097343,36,1,Salaried,Urban,1,Graduate,Yes,Approved
+59425,11246,155228,60,1,Salaried,Rural,1,Not Graduate,Yes,Approved
+53756,45558,4670650,180,0,Self-employed,Urban,1,Graduate,Yes,Rejected
+33888,18381,1805692,240,1,Unemployed,Semiurban,2,Not Graduate,No,Rejected
+62295,36455,934056,360,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+129352,26727,1780228,12,1,Unemployed,Semiurban,1,Graduate,No,Rejected
+98042,4018,1996793,240,1,Salaried,Urban,2,Graduate,Yes,Approved
+100999,11302,1619123,300,1,Salaried,Urban,3,Graduate,No,Approved
+32955,1970,3329269,60,1,Salaried,Semiurban,2,Graduate,No,Rejected
+52841,41157,1776470,84,1,Self-employed,Rural,0,Graduate,Yes,Approved
+85640,27202,3390420,180,1,Unemployed,Rural,0,Graduate,Yes,Rejected
+76476,31110,98874,240,1,Self-employed,Urban,0,Graduate,Yes,Approved
+59811,17586,1672572,84,1,Salaried,Urban,1,Not Graduate,No,Approved
+86180,24519,3270281,300,1,Self-employed,Rural,0,Graduate,Yes,Approved
+127856,31273,2739784,120,0,Salaried,Semiurban,0,Graduate,No,Rejected
+83450,21951,759662,12,0,Self-employed,Rural,2,Graduate,Yes,Rejected
+126888,15374,4922554,84,1,Salaried,Urban,0,Graduate,No,Approved
+125448,5788,520452,60,1,Salaried,Semiurban,2,Not Graduate,No,Approved
+29397,5408,2189686,360,1,Salaried,Semiurban,0,Graduate,No,Rejected
+146800,25053,2642670,300,1,Self-employed,Semiurban,0,Graduate,No,Approved
+134180,9446,4860833,12,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+81234,922,492061,180,1,Self-employed,Urban,1,Graduate,Yes,Approved
+54954,33187,3384732,360,1,Salaried,Semiurban,0,Not Graduate,No,Approved
+94459,10789,3811675,240,1,Self-employed,Urban,0,Graduate,No,Approved
+74163,32184,2311286,84,1,Self-employed,Semiurban,3,Not Graduate,Yes,Approved
+66934,1120,538972,12,1,Self-employed,Rural,0,Graduate,Yes,Approved
+69098,44028,1173994,36,1,Salaried,Urban,1,Graduate,Yes,Approved
+20486,32154,3131328,120,1,Salaried,Rural,1,Not Graduate,Yes,Rejected
+101900,17334,4148064,120,1,Salaried,Urban,0,Graduate,Yes,Approved
+141020,2336,2667703,300,1,Self-employed,Semiurban,1,Graduate,Yes,Approved
+117795,38141,213038,180,1,Salaried,Rural,0,Graduate,No,Approved
+102508,2243,4013735,300,1,Salaried,Urban,1,Graduate,Yes,Approved
+133324,19029,1424572,36,1,Salaried,Urban,0,Graduate,Yes,Approved
+75566,32265,2405874,60,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+42192,37380,650530,180,1,Self-employed,Urban,0,Graduate,Yes,Approved
+16062,46714,3698966,60,1,Salaried,Semiurban,1,Graduate,No,Rejected
+99076,43872,1127833,180,0,Self-employed,Rural,0,Graduate,No,Rejected
+104780,46197,2627640,180,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+36689,23710,485423,36,1,Salaried,Urban,0,Graduate,No,Approved
+26174,29486,1242929,240,1,Salaried,Semiurban,0,Graduate,No,Approved
+103461,6371,373390,36,1,Salaried,Semiurban,2,Not Graduate,No,Approved
+141174,6359,1714221,180,1,Salaried,Urban,0,Graduate,Yes,Approved
+118033,40631,4118316,12,1,Self-employed,Semiurban,2,Not Graduate,No,Approved
+24348,35996,1706671,60,1,Salaried,Semiurban,3,Graduate,Yes,Approved
+53102,20103,188563,36,0,Self-employed,Semiurban,1,Graduate,Yes,Rejected
+89460,14382,833066,240,1,Salaried,Urban,0,Graduate,Yes,Approved
+117634,18755,1604623,84,0,Salaried,Semiurban,0,Graduate,Yes,Rejected
+104930,35659,4949856,300,1,Self-employed,Urban,1,Graduate,Yes,Approved
+21801,3756,4105957,180,1,Salaried,Urban,0,Graduate,Yes,Rejected
+118150,20609,647897,84,0,Salaried,Rural,0,Graduate,Yes,Rejected
+16542,48538,3991237,120,1,Salaried,Semiurban,1,Not Graduate,No,Rejected
+36677,16478,822800,360,1,Salaried,Urban,2,Graduate,No,Approved
+54081,35442,2092999,240,0,Self-employed,Urban,1,Graduate,Yes,Rejected
+108105,39666,3572554,360,1,Salaried,Urban,0,Not Graduate,No,Approved
+34065,10147,3709985,240,1,Self-employed,Urban,1,Graduate,No,Rejected
+103092,33561,1952897,12,1,Self-employed,Urban,0,Graduate,No,Approved
+69693,34884,3626511,300,1,Salaried,Urban,0,Graduate,Yes,Approved
+41962,5779,1213950,84,1,Unemployed,Semiurban,2,Not Graduate,No,Rejected
+43295,12298,599148,60,1,Salaried,Semiurban,0,Not Graduate,No,Approved
+28807,14153,2823707,240,1,Unemployed,Semiurban,0,Graduate,No,Rejected
+147396,43879,4728394,60,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+106267,10789,2823939,300,0,Self-employed,Urban,2,Not Graduate,Yes,Rejected
+34870,44165,1985740,180,1,Salaried,Rural,1,Graduate,Yes,Approved
+41790,12999,3484955,120,1,Salaried,Rural,1,Graduate,Yes,Rejected
+133874,814,4986710,84,0,Self-employed,Rural,1,Graduate,Yes,Rejected
+40289,49497,2795226,300,0,Self-employed,Rural,0,Graduate,Yes,Rejected
+30485,10541,3227326,300,1,Salaried,Rural,0,Graduate,No,Rejected
+59482,24938,1604510,12,1,Salaried,Semiurban,0,Graduate,No,Approved
+101188,2443,1880815,360,1,Self-employed,Urban,0,Graduate,Yes,Approved
+19748,10457,3813122,120,1,Self-employed,Semiurban,0,Graduate,No,Rejected
+18709,10380,2436378,84,0,Unemployed,Semiurban,2,Not Graduate,Yes,Rejected
+138961,7783,4471590,180,1,Self-employed,Semiurban,0,Graduate,No,Approved
+45355,44241,2584937,180,0,Unemployed,Semiurban,0,Graduate,No,Rejected
+57918,17368,3207473,36,1,Self-employed,Urban,0,Graduate,No,Approved
+67224,15328,862461,300,1,Salaried,Urban,0,Graduate,No,Approved
+54298,26215,4477036,240,1,Salaried,Rural,2,Graduate,Yes,Rejected
+95219,33595,4105555,12,1,Self-employed,Semiurban,0,Graduate,No,Approved
+76629,27306,1768224,120,1,Self-employed,Semiurban,0,Not Graduate,Yes,Approved
+81040,19915,2760626,180,1,Salaried,Urban,1,Not Graduate,No,Approved
+43016,39915,974044,84,1,Salaried,Urban,0,Graduate,No,Approved
+38960,37219,3031352,36,1,Unemployed,Rural,0,Graduate,No,Rejected
+48591,15343,1436652,84,1,Salaried,Semiurban,0,Graduate,Yes,Approved
+118333,46403,335555,12,1,Salaried,Rural,1,Not Graduate,No,Approved
+129821,38727,494191,240,1,Salaried,Semiurban,3,Not Graduate,Yes,Approved
+51395,126,1552337,36,1,Salaried,Semiurban,1,Graduate,Yes,Approved
+144695,27632,3536669,36,0,Salaried,Urban,0,Graduate,No,Rejected
+49620,41563,970597,360,1,Salaried,Semiurban,2,Not Graduate,Yes,Approved
+143148,44409,2093338,120,1,Salaried,Semiurban,0,Graduate,No,Approved
+35559,20530,3772946,36,0,Self-employed,Semiurban,0,Graduate,Yes,Rejected
